@@ -1,0 +1,32 @@
+body{
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.discover{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.link{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.travelguide h3{
+  font-size: 21px;
+  color: gray;
+}
+
+.trademark {
+  color: gray;
+  text-align: right;
+}
